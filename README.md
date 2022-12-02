@@ -2,4 +2,4 @@ Hi, I’m @slebote
 
 Senior web developer working @norsys
 
-My current interests : AI (python - TS), Node, React, Dart, GraphQL
+My current interests : Dart - Flutter, Node, React, GraphQL, AI (python - TS)
