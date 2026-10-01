@@ -4,6 +4,4 @@ Hi, I’m @slebote
 
 Senior developer working @norsys
 
-My current interests : AI, Kafka, Dart - Flutter, Node / Deno
-
-My [GPTs](https://gptstore.ai/creators/user-0wf0xNeiWZBKzVqey9PYZjuK)
+My current interests : AI, Software Architecture
